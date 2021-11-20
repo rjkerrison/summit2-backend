@@ -40,6 +40,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     'summit2api.herokuapp.com',
+    'rjk-summit2.herokuapp.com'
 ]
 
 
